@@ -1,0 +1,12 @@
+{
+    "database": {
+        "host": "localhost",
+        "user": "madness",
+        "pass": "",
+        "port": 3306,
+        "name": "shortoftime"
+    },
+    "debug": true,
+    "listener": "0.0.0.0:7666",
+    "rootDir": "/home/allan/go/src/github.com/cloudcloud/shortoftime/"
+}
